@@ -1,7 +1,7 @@
-# Grid responsivo com flexbox
+# Sidebar com animações e bordas arredondadas
 
-Aplico esse grid em vários projetos e funciona muito bem para distribuir o espaço dentro de containers responsivos.
+Menu lateral com animações de clique e bordas arredondadas feito com HTML, CSS e Javascript puro.
 
 ## Preview:
 
-<img src="https://romaopedro.com/wp-content/uploads/2020/09/grid-responsivo-com-flexbox-exemplo-1024x762.png" alt="Grid responsivo com flexbox" title="Grid responsivo com flexbox" width="700"/>
+<img src="https://romaopedro.com/wp-content/uploads/2020/08/sidebar-com-animacoes-e-bordas-arredondadas.gif" alt="Grid responsivo com flexbox" title="Grid responsivo com flexbox" width="400"/>
