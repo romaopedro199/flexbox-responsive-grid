@@ -1,0 +1,170 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.mw_100 {
+  max-width: 100%;
+}
+
+.p_1 {
+  padding: 5px;
+}
+
+.container {
+  width: 100%;
+}
+
+.row {
+  display: flex;
+  flex-flow: wrap;
+}
+
+.col_1 {
+  max-width: 8.333333333333333%;
+}
+
+.col_2 {
+  max-width: 16.66666666666667%;
+}
+
+.col_3 {
+  max-width: 25%;
+}
+
+.col_4 {
+  max-width: 33.33333333333333%;
+}
+
+.col_5 {
+  max-width: 41.66666666666667%;
+}
+
+.col_6 {
+  max-width: 50%;
+}
+
+.col_7 {
+  max-width: 58.33333333333333%;
+}
+
+.col_8 {
+  max-width: 66.66666666666667%;
+}
+
+.col_9 {
+  max-width: 75%;
+}
+
+.col_10 {
+  max-width: 83.33333333333333%;
+}
+
+.col_11 {
+  max-width: 91.66666666666667%;
+}
+
+.col_12 {
+  max-width: 100%;
+}
+
+@media(min-width: 768px) and (max-width: 991px) {
+  .col_sm_1 {
+    max-width: 8.333333333333333%;
+  }
+  
+  .col_sm_2 {
+    max-width: 16.66666666666667%;
+  }
+  
+  .col_sm_3 {
+    max-width: 25%;
+  }
+  
+  .col_sm_4 {
+    max-width: 33.33333333333333%;
+  }
+  
+  .col_sm_5 {
+    max-width: 41.66666666666667%;
+  }
+  
+  .col_sm_6 {
+    max-width: 50%;
+  }
+  
+  .col_sm_7 {
+    max-width: 58.33333333333333%;
+  }
+  
+  .col_sm_8 {
+    max-width: 66.66666666666667%;
+  }
+  
+  .col_sm_9 {
+    max-width: 75%;
+  }
+  
+  .col_sm_10 {
+    max-width: 83.33333333333333%;
+  }
+  
+  .col_sm_11 {
+    max-width: 91.66666666666667%;
+  }
+  
+  .col_sm_12 {
+    max-width: 100%;
+  }
+}
+
+@media(min-width: 992px) {
+  .col_md_1 {
+    max-width: 8.333333333333333%;
+  }
+  
+  .col_md_2 {
+    max-width: 16.66666666666667%;
+  }
+  
+  .col_md_3 {
+    max-width: 25%;
+  }
+  
+  .col_md_4 {
+    max-width: 33.33333333333333%;
+  }
+  
+  .col_md_5 {
+    max-width: 41.66666666666667%;
+  }
+  
+  .col_md_6 {
+    max-width: 50%;
+  }
+  
+  .col_md_7 {
+    max-width: 58.33333333333333%;
+  }
+  
+  .col_md_8 {
+    max-width: 66.66666666666667%;
+  }
+  
+  .col_md_9 {
+    max-width: 75%;
+  }
+  
+  .col_md_10 {
+    max-width: 83.33333333333333%;
+  }
+  
+  .col_md_11 {
+    max-width: 91.66666666666667%;
+  }
+  
+  .col_md_12 {
+    max-width: 100%;
+  }
+}
